@@ -1,1 +1,1 @@
-# marvel-quiz
+# cricket-quiz
